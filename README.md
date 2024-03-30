@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 Hey there! I'm Simran, a recent graduate specializing in Cloud Computing from the International Institute of Information Technology Bangalore (IIITB), with a keen focus on AWS. My journey into the AWS ecosystem is driven by a passion for innovation and a desire to contribute to the evolution of cloud computing. I am deeply interested in exploring career opportunities within AWS, particularly as an AWS Solutions Architect or Cloud Engineer. I love exploring new technologies and creating innovative solutions to solve real-world problems. Currently, I'm delving deeper into AWS services and expanding my knowledge in cloud architecture and deployment strategies.
 
-```yaml
-* Your other details can be displayed here using YAML format.
+
 ## About Me ℹ️
 
 - 🎓 Insert your educational background or current status.
