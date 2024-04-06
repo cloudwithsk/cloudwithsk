@@ -1,8 +1,8 @@
  ### Hi there 👋
-(Line 67)
+<!--(Line 67)
 **cloudwithsk/cloudwithsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on hosting a web-application on Amazon S3.
 - 🌱 I’m currently learning design of cost and performance optimized solutions for AWS Solutions Architect certification.
