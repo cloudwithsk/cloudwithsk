@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning design of cost and performance optimized solutions for AWS Solutions Architect certification.
 - 👯 I’m looking to collaborate on Cloud computing projects in open source, startups or anyone who wants a solution to their cloud problem.
 - 🤔 I’m looking for help with interactive discussions about AWS and cloud, job opputunities.
-- 💬 Ask me about AWS, Cloud Computing technology and real world user stories. I am intrigued by the applications of cloud in the real world and how solutions are crafted - The recent 
+- 💬 Ask me about AWS, Cloud Computing technology and real world user stories. I am intrigued by the applications of cloud in the real world and how solutions are crafted - The recent user story that fascinated me is [This](https://www.youtube.com/watch?v=amgg4tJ7mYI)
 - 📫 How to reach me: Connect with me on LinkedIN @simrankaurw or @cloudwithsk across any social! [Email Address](mailto:simrankaurwalia.o1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/simrankaurw/) 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm also a poet and a co-author of 6 International Anthologies!
