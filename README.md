@@ -1,18 +1,19 @@
-<!-- ### Hi there 👋
+ ### Hi there 👋
 (Line 67)
-<!--
 **cloudwithsk/cloudwithsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on hosting a web-application on Amazon S3.
+- 🌱 I’m currently learning design of cost and performance optimized solutions for AWS Solutions Architect certification.
+- 👯 I’m looking to collaborate on Cloud computing projects in open source, startups or anyone who wants a solution to their cloud problem.
+- 🤔 I’m looking for help with interactive discussions about AWS and cloud, job opputunities.
+- 💬 Ask me about AWS, Cloud Computing technology and real world user stories. I am intrigued by the applications of cloud in the real world and how solutions are crafted - The recent 
+- 📫 How to reach me: Connect with me on LinkedIN @simrankaurw or @cloudwithsk across any social! [Email Address](mailto:simrankaurwalia.o1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/simrankaurw/) 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm also a poet and a co-author of 6 International Anthologies!
+- 📫 My Blog and Articles: [Medium](https://medium.com/@CloudWithSK)
+ 
 
 
 # Welcome to Simran Kaur's GitHub Profile! 👋
@@ -21,13 +22,13 @@ Here are some ideas to get you started:
 
 Hey there! I'm Simran, a recent graduate specializing in Cloud Computing from the International Institute of Information Technology Bangalore (IIITB), with a keen focus on AWS. My journey into the AWS ecosystem is driven by a passion for innovation and a desire to contribute to the evolution of cloud computing. I am deeply interested in exploring career opportunities within AWS, particularly as an AWS Solutions Architect or Cloud Engineer. I love exploring new technologies and creating innovative solutions to solve real-world problems. Currently, I'm delving deeper into AWS services and expanding my knowledge in cloud architecture and deployment strategies.
 
-
+<!-- 
 ## About Me ℹ️
 
 - 🎓 Insert your educational background or current status.
 - 💼 Mention your profession or field of work.
 - 🌱 Share what you're currently learning or interested in.
-- 📫 Reach me: [Email Address](mailto:youremail@example.com) | [LinkedIn](https://www.linkedin.com/in/yourusername/) | [Twitter](https://twitter.com/yourusername/)
+
 
 ## Skills & Tools 🛠️
 
