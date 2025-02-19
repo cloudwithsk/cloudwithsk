@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on hosting a web-application on Amazon S3.
+- 🔭 I’m currently working on Microservice Cloud Application and Homomorphic Encryption Research in Cloud.
 - 🌱 I’m currently learning design of cost and performance optimized solutions for AWS Solutions Architect certification.
 - 👯 I’m looking to collaborate on Cloud computing projects in open source, startups or anyone who wants a solution to their cloud problem.
 - 🤔 I’m looking for help with interactive discussions about AWS and cloud, job opputunities.
@@ -20,7 +20,7 @@ Here are some ideas to get you started: -->
 
 ## About Me ℹ️
 
-Hey there! I'm Simran, a recent graduate specializing in Cloud Computing from the International Institute of Information Technology Bangalore (IIITB), with a keen focus on AWS. My journey into the AWS ecosystem is driven by a passion for innovation and a desire to contribute to the evolution of cloud computing. I am deeply interested in exploring career opportunities within AWS, particularly as an AWS Solutions Architect or Cloud Engineer. I love exploring new technologies and creating innovative solutions to solve real-world problems. Currently, I'm delving deeper into AWS services and expanding my knowledge in cloud architecture and deployment strategies.
+Hey there! I'm Simran, Cloud engineering Researcher at LJMU as part of Master's in Computer Science. My Post graduation involved software dev with specialization in Cloud Computing from the International Institute of Information Technology Bangalore (IIITB), with a keen focus on AWS. My journey into the AWS ecosystem is driven by a passion for innovation and a desire to contribute to the evolution of cloud computing. I am deeply interested in exploring career opportunities within AWS, particularly as an AWS Solutions Architect or Cloud Engineer. I love exploring new technologies and creating innovative solutions to solve real-world problems. Currently, I'm delving deeper into AWS services and expanding my knowledge in cloud architecture and deployment strategies.
 
 <!-- 
 ## About Me ℹ️
