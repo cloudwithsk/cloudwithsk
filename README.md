@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Microservice Cloud Application and Homomorphic Encryption Research in Cloud.
+- 🔭 I’m currently building a Microservice Cloud Application for Homomorphic Encryption Research in Cloud.
 - 🌱 I’m currently learning design of cost and performance optimized solutions for AWS Solutions Architect certification.
 - 👯 I’m looking to collaborate on Cloud computing projects in open source, startups or anyone who wants a solution to their cloud problem.
 - 🤔 I’m looking for help with interactive discussions about AWS and cloud, job opputunities.
